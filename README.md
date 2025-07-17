@@ -15,3 +15,44 @@ Permita que os administradores possam adicionar, remover e atualizar informaçõ
 
 Dashboard de Visualização:
 Crie um painel de controle visualmente atraente que exiba dados relevantes sobre segurança, recursos e atividades dentro das Indústrias Wayne.
+
+### 🎯 Executando o projeto
+
+```bash
+# Clone este repositório
+git clone https://github.com/amandaamendoeira/industrias-wayne
+
+# Acesse a pasta do projeto
+cd industrias-wayne
+
+# Instale as dependências
+npm install
+
+# Execute a aplicação em modo de desenvolvimento
+npm run dev
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+
+### 🏗️ Build para produção
+
+```bash
+# Cria a versão de produção
+npm run build
+
+# Visualiza a build de produção
+npm run preview
+```
+
+## 📁 Estrutura do Projeto
+
+```
+src/
+├── components/          # Componentes reutilizáveis
+├── pages/              # Páginas da aplicação
+├── hooks/              # Custom hooks
+├── utils/              # Funções utilitárias
+├── types/              # Definições de tipos TypeScript
+├── styles/             # Estilos globais
+└── assets/             # Imagens, ícones, etc.
+```

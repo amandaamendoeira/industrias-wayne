@@ -1,3 +1,22 @@
+Aplicação web desenvolvida para simular um sistema corporativo de gestão interna das Indústrias Wayne, permitindo visualização e organização de dados administrativos através de uma interface web estruturada.
+
+Funcionalidades:
+- Interface administrativa para visualização de dados
+- Navegação entre módulos do sistema
+- Estruturação de layout responsivo
+- Organização de informações corporativas
+
+Tecnologias utilizadas:
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+  
+Objetivo do projeto:
+- Projeto acadêmico desenvolvido com foco na prática de desenvolvimento web, organização de interfaces administrativas e estruturação de aplicações voltadas para ambientes corporativos.
+
+-
+
 PROJETO:
 
 As Indústrias Wayne, uma empresa renomada e inovadora liderada pelo lendário Bruce Wayne (também conhecido como Batman), está buscandolendário Bruce Wayne (também conhecido como Batman), está buscando uma solução tecnológica para otimizar seus processos internos e melhorar auma solução tecnológica para otimizar seus processos internos e melhorar a segurança de Gotham City. Como parte de seu projeto final, você irá desenvolver uma aplicação web full stack que atenda às necessidades específicas das Indústrias Wayne.

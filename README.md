@@ -15,7 +15,7 @@ Tecnologias utilizadas:
 Objetivo do projeto:
 - Projeto acadêmico desenvolvido com foco na prática de desenvolvimento web, organização de interfaces administrativas e estruturação de aplicações voltadas para ambientes corporativos.
 
--
+
 
 PROJETO:
 
